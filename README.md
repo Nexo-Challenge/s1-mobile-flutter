@@ -12,8 +12,15 @@ Fonte: `2TDS Agosto - Marinha 2026 - 1º Semestre V2.pdf`, Mobile Application De
 
 **Prazo:** o PDF diverge entre 01/11/2026 (Entregas) e até 02/11/2026 (Cronograma). Data e horário oficiais a confirmar.
 
-## Equipe
-Responsável principal, revisor, integrantes, nomes, RMs e turma: a confirmar. Preencher dados pessoais públicos somente após conferência e autorização.
+## Equipe e responsabilidade
+
+| Nome Completo | RM | Turma | Responsabilidade Principal |
+| :--- | :--- | :--- | :--- |
+| **Alisson Kawan Evangelista Silva** | **RM567598** | 2TDSPS | Java e .NET |
+| **Kenji Fernandes Wakabayashi** | **RM568156** | 2TDSPS | IoT e Banco de Dados |
+| **Erick Ramos Santos** | **RM567837** | 2TDSPS | DevOps Tools & Cloud Computing |
+| **Eduardo Boni dos Santos** | **RM567236** | 2TDSPS | Mobile Application Development (Responsável Principal) |
+| **Marcos Vinicius de Jesus Almeida** | **RM567214** | 2TDSPS | Documentação e Qualidade de Software (QA) |
 
 ## Solução e arquitetura
 Público, jornada e cinco telas coerentes: a aprovar. Versão Flutter/Dart: a definir conforme aulas. Mocks são permitidos; integração com APIs, banco ou serviços externos não é necessária nesta sprint.
